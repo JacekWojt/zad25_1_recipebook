@@ -1,0 +1,44 @@
+.header {
+    text-align: center;
+}
+
+.navbar {
+    display: flex;
+    width: 900px;
+    justify-content: center;
+    margin: auto;
+    padding: 0px;
+}
+.content {
+    width: 900px;
+    margin: auto;
+    padding: 0px;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+h4 {
+    margin-top: 40px;
+    text-align: center;
+}
+
+.container-fluid {
+    width: 900px;
+}
+
+.navbar-nav {
+    width: 900px;
+}
+
+.add-country {
+    text-align: center;
+}
+
+.add-container {
+    display: flex;
+    justify-content: center;
+}
